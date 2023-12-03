@@ -8,4 +8,4 @@
 Just get .rar file extracted and run .exe then enjoy!
 
 **Contact me:**
-🟦 [Facebook](https://pages.github.com/) & ⬛ [X (Twitter)](https://twitter.com/nomura_reo)
+🟦 [Facebook](https://www.facebook.com/nomurareo) & ⬛ [X (Twitter)](https://twitter.com/nomura_reo)
