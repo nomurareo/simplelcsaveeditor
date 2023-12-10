@@ -227,7 +227,7 @@ class MyWidget(QWidget):
                 if value > 99999:
                     value = 99999
             elif field == 'DeadlineTime':
-                if value > 1000:
+                if value > 10000:
                     value = 10000
             elif field == 'RandomSeed':
                 if value > 1e9:
